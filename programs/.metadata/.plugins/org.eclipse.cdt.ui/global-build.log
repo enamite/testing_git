@@ -1,0 +1,9 @@
+20:02:09 **** Rebuild of configuration Debug for project bookstore program ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o source.o "..\\source.cpp" 
+g++ -o "bookstore program.exe" source.o 
+Info: Nothing to build for bookstore program
+20:08:44 **** Incremental Build of configuration Debug for project bookstore program ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o source.o "..\\source.cpp" 
+g++ -o "bookstore program.exe" source.o 
